@@ -3,7 +3,7 @@
 DEFINATION : Merge Sort is a divide-and-conquer sorting algorithm that sorts an array or list by repeatedly dividing it into two smaller halves until each subarray contains only one element. It then merges these subarrays back together in sorted order to produce the final sorted array.
 
 # Algorithm
-1)Create two temporary arrays:
+1)Create two temporary arrays:\n
 2)Left array = A[low...mid]
 3)Right array = A[mid+1...high]
 4)Compare the first elements of both arrays.
